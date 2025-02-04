@@ -21,6 +21,10 @@ For a deeper understanding of robust tube-based MPC and related concepts, the fo
    *"Linear systems with state and control constraints: The theory and application of maximal output admissible sets."*  
    _IEEE Transactions on Automatic Control, vol. 36, no. 9, 1991, pp. 1008-1020._  
 
+4. **Rakovic, Sasa V., et al.**
+   *"Invariant approximations of the minimal robust positively invariant set."*
+   _IEEE Transactions on automatic control 50.3 (2005): 406-410._
+   
 ## **Required Toolboxes**  
 The following MATLAB toolboxes are required to run the simulations:  
 
